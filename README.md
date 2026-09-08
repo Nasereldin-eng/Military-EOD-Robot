@@ -69,6 +69,10 @@ This repository showcases the documentation, system architecture, and C++ source
 
 
 
+## System Architecture
+![Military EOD Robot System Architecture](Remote%20Control%20Power%20Supply-2026-09-08-151453.jpg)
+
+
 ---
 
 ## Author
