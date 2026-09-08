@@ -73,6 +73,17 @@ This repository showcases the documentation, system architecture, and C++ source
 ![Military EOD Robot System Architecture](Remote%20Control%20Power%20Supply-2026-09-08-151453.jpg)
 
 
+## Project Gallery
+
+* **Robot Chassis & Manipulator Arm:**
+  ![Robot Chassis](1.jpeg) ![Robot Front View](2.jpeg) ![Arm Extended](3.jpeg) ![Chassis Details](4.jpeg)
+
+* **Robot Assembly & Testing:**
+  ![Assembly Angle](5.jpeg) ![Top View](6.jpeg) ![Field Test](7.jpeg)
+
+* **Remote Control Station (Transmitter Unit):**
+  ![Remote Top & Joysticks](8.jpeg) ![Remote Top View](9.jpeg) ![Remote Circuitry](10.jpeg) ![Remote Battery Setup](11.jpeg) ![Remote Side Profile](12.jpeg) ![Remote Controls](13.jpeg) ![Remote Overview](14.jpeg)
+  
 ---
 
 ## Author
